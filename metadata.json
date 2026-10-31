@@ -1,0 +1,8 @@
+{
+  "name": "EV Insights — Electric Vehicle Market Performance & Insights",
+  "description": "Interactive analytics platform presenting electric vehicle market trends, manufacturer performance, battery technology, pricing, and driving range.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
